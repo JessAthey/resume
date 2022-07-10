@@ -1,0 +1,56 @@
+*{
+    font-family: 'Asap Condensed', sans-serif;
+}
+
+.navbar {
+    height: 50px;
+}
+
+
+
+#buttoncard {
+    background-color: bisque;
+    position: absolute;
+    margin-left: 400px;
+    width: 4rem;
+}
+
+.clearfix img {
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    
+}
+
+.clearfix {
+    background-color: #E5DACE;
+}
+
+.clearfix p  {
+margin-top: 10px;
+padding-top: 20px;
+margin-left: 20px;
+}
+
+.clearfix h1 {
+    padding-top: 40px;
+}
+
+#colgrid {
+    margin-top: 30px;
+    border: solid;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.order-1 {
+    background-color: #e5dace;
+}
+
+.order-2 {
+    background-color: white;
+}
+
+.order-3 {
+    background-color: #e5dace;
+}
